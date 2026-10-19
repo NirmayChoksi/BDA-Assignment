@@ -1,0 +1,5 @@
+txn_type,txn_count,total_value_inr,avg_ticket_inr
+P2P,112445,147154648,1308.68
+P2M,87660,115717567,1320.07
+Bill Payment,37368,48895743,1308.49
+Recharge,12527,16171051,1290.9

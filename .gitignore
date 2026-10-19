@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Agent / editor tooling
+.agents/
+.claude/
+
+# Hive / Hadoop local runtime state
+metastore_db/
+derby.log
+spark-warehouse/
+*.log
+
+# OS
+.DS_Store

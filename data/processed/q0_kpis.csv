@@ -1,0 +1,2 @@
+total_transactions,total_value_inr,avg_ticket_inr,success_pct,fraud_pct,states,sender_banks
+250000,327939009,1311.76,95.05,0.19,10,8
